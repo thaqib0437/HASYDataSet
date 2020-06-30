@@ -1,7 +1,11 @@
 # HASYDataSet
 Image data set for Latex characters. Training folders has 1,51,241 images with 369 classes
-Link: 
-Files:
+Download Link(zip):  
+
+
+
+
+Files
 ```bash
 symbols.csv: List of all symbols with corresponding symbol_id
 ```
@@ -69,6 +73,33 @@ Each folder is named after the symbol.id in symbols.csv, it contains all the ima
 
 Some example images:
 
-![symbol_id = 180](v2-04002.png?raw=true "Omega")
+![symbol_id = XXX](v2-00151.png?raw=true "") 
+![symbol_id = XXX](v2-01593.png?raw=true "") 
+![symbol_id = XXX](v2-09067.png?raw=true "")
+![symbol_id = XXX](v2-15496.png?raw=true "") 
+![symbol_id = XXX](v2-16263.png?raw=true "") 
+![symbol_id = XXX](v2-16808.png?raw=true "") 
 
+
+symbols.csv format:
+```csv
+symbol_id	latex	training_samples	test_samples
+31	A	137	22
+32	B	53	8
+33	C	120	14
+.
+.
+.
+81	\pi	1374	159
+82	\alpha	2341	260
+87	\beta	1018	113
+88	\sum	3060	340
+89	\sigma	1010	113
+
+268	\checkmark	786	89
+269	\circledR	106	13
+508	\mathsection	114	13
+510	\amalg	164	20
+
+```
 
