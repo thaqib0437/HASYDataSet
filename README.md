@@ -1,6 +1,6 @@
 # HASYDataSet
 Image data set for Latex characters. Training folders has 1,51,241 images with 369 classes
-Download Link(zip):  
+Download Link(zip):  https://drive.google.com/uc?export=download&id=1yPfC21ZlUqjc8ST0OUjrQOToM975wmRd
 
 
 
@@ -16,7 +16,7 @@ symbols.csv: List of all symbols with corresponding symbol_id
 ├── Validation
 └── symbols.csv
 ```
-### Folders Folder
+### Data inside folders
 
 ```bash
 Train
