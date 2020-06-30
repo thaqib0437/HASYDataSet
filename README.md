@@ -69,3 +69,6 @@ Each folder is named after the symbol.id in symbols.csv, it contains all the ima
 
 Some example images:
 
+![symbol_id = 180](v2-04002.png?raw=true "Omega")
+
+
